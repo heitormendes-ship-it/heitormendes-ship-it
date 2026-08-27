@@ -56,3 +56,8 @@ Meus principais interesses estão em **programação**, **inteligência artifici
 ![Google Assistant](https://img.shields.io/badge/Google%20Assistant-4285F4?logo=googleassistant&logoColor=fff)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
 ![Grok](https://img.shields.io/badge/Grok-000000?logo=x&logoColor=white)
+
+---
+
+
+viver não e temer o fim
