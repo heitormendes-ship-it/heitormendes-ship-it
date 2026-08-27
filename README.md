@@ -42,13 +42,12 @@ Meus principais interesses estão em **programação**, **inteligência artifici
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/949066373936599072)
 [![SteamVR](https://img.shields.io/badge/SteamVR-%23232F3E.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199830428658)
 [![Steam](https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198930428658)
-[![Brave](https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white)]
-[![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)]
-[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)]
-[![Opera](https://img.shields.io/badge/Opera-FF1B2D?logo=Opera&logoColor=white)]
-[![Opera GX](https://img.shields.io/badge/Opera%20GX-EE2950?logo=operagx&logoColor=fff)]
-[![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?logo=Vivaldi&logoColor=white)]
-
+![Brave](https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/GoogleChrome-4285F4?logo=GoogleChrome&logoColor=white)
+![Opera](https://img.shields.io/badge/Opera-FF1B2D?logo=Opera&logoColor=white)
+![Opera GX](https://img.shields.io/badge/OperaGX-EE2958?logo=operagx&logoColor=fff)
+![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?logo=Vivaldi&logoColor=white)
 ## IA que estou utilizando no momento
 
 ![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
