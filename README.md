@@ -28,7 +28,7 @@ Meus principais interesses estão em **programação**, **inteligência artifici
 <p align="center">
   Aprender com profundidade. Construir com intenção.
 </p>
-## estudante de ciência da computação
+
 
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@heitor.012-2?si=rymXc-c_-tiUWdDm)
