@@ -60,4 +60,4 @@ Meus principais interesses estão em **programação**, **inteligência artifici
 ---
 
 
-                                                        viver não e temer o fim
+                                                      viver não e temer o fim
