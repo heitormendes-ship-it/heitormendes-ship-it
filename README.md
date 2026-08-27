@@ -16,7 +16,7 @@
 
 
 
-## Meus irmãos de sangue(IA)
+## IA usáveis no momento
 [![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
 [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)
