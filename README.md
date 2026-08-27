@@ -1,5 +1,33 @@
-### olá, eu sou Heitor Mendes Crispim
+<h1 align="center"></h1>
 
+<p align="center">
+  Estudante de Ciência da Computação<br>
+  Tecnologia, software e ideias transformadas em projetos.
+</p>
+
+---
+
+### Sobre
+
+Sou estudante de **Ciência da Computação**, com interesse em aprendizado e vontade de conhecer e aprender mais
+
+Meus principais interesses estão em **programação**, **inteligência artificial**, **desenvolvimento de software**, **python** e **cybersegurança**. Fora da vida de programador, gosto de jogar, fazer esportes e estudar novas tecnologias.
+
+### Em foco
+
+- melhorar meus conhecimentos sobre programação.
+- Desenvolver projetos.
+- Explorar a relação entre software, inteligência e segurança.
+
+### Ferramentas
+
+`HTML` · `Git` · `GitHub` · `VS Code` . `python` . `linkedin`
+
+---
+
+<p align="center">
+  Aprender com profundidade. Construir com intenção.
+</p>
 ## estudante de ciência da computação
 
 
