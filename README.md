@@ -16,7 +16,7 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198930428658)
 
 
-## IA usáveis no momento
+## IA que estou utilizando no momento
 
 ![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
