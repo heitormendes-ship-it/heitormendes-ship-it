@@ -42,7 +42,7 @@ Meus principais interesses estão em **programação**, **inteligência artifici
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/949066373936599072)
 [![SteamVR](https://img.shields.io/badge/SteamVR-%23232F3E.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199830428658)
 [![Steam](https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198930428658)
-
+[![Brave](https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white)]
 
 ## IA que estou utilizando no momento
 
